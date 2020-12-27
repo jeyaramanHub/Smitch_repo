@@ -4,4 +4,6 @@ All these codes has been developed or updated from the esp-idf based on requirem
 
 Both BLE and WiFi are working properly and mDNS is underway.
 
+GATT BLE is working with nordic RF application.
+
 Please check this for your reference.
