@@ -6,4 +6,4 @@ Both BLE and WiFi are working properly and mDNS is underway.
 
 GATT BLE is working with nordic RF mobile application.
 
-Please check this for your reference.
+Please check the updated files for your reference.
